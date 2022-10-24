@@ -1,7 +1,7 @@
 import query from './query';
 import mutation from './mutation';
 
-export const resolverName = {
+export const resolverCategory = {
     ...query,
     ...mutation
 };

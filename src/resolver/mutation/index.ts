@@ -1,6 +1,6 @@
-import mutationName from './name';
+import mutationCategory from './category';
 const mutation = {
-    ...mutationName,
+    ...mutationCategory,
 };
 
 export default mutation;

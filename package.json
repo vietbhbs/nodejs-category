@@ -1,5 +1,5 @@
 {
-  "name": "template-nodejs-modules-mongodb",
+  "name": "nodejs-category",
   "version": "1.0.0",
   "description": "Template module nodejs for mongodb",
   "main": "lib/index.js",
@@ -13,12 +13,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "TienHM",
+  "author": "VietBH",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:tienhm7/template-nodejs-modules-mongodb.git",
-    "directory": "template-nodejs-modules-mongodb"
+    "url": "ssh://git@github.com:vietbhbs/nodejs-category.git",
+    "directory": "nodejs-category"
   },
   "dependencies": {
     "mongoose": "^6.6.5",

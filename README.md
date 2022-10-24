@@ -15,8 +15,8 @@ Name -> User
 name -> user
 
 Rename file: 
-src/resolver/mutation/name.ts to -> src/resolver/mutation/user.ts
-src/resolver/query/name.ts -> src/resolver/query/user.ts
+src/resolver/mutation/category.ts to -> src/resolver/mutation/user.ts
+src/resolver/query/category.ts -> src/resolver/query/user.ts
 
 
 ## Contact & Support

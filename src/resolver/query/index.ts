@@ -1,7 +1,7 @@
-import queryName from './name';
+import queryCategory from './category';
 
 const query = {
-    ...queryName,
+    ...queryCategory,
 };
 
 export default query;

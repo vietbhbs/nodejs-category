@@ -1,3 +1,3 @@
-import { resolverName } from './resolver'
+import { resolverCategory } from './resolver'
 
-export { resolverName }
+export { resolverCategory }
